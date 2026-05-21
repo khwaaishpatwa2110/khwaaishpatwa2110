@@ -14,7 +14,7 @@
 
 - 🎓 Computer Science Engineering student  
 - 🌐 Frontend developer (HTML, CSS, JS)  
-- 🗄️ Currently learning SQL  
+- 🗄️ Currently learning SQL and Java
 - 💻 Familiar with C & C++  
 - 🤖 Interested in AI & ML  
 - 🎨 Love clean UI  
