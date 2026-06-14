@@ -12,23 +12,30 @@
 
 ## 🌸 About Me
 
-- 🎓 Computer Science Engineering student  
-- 🌐 Frontend developer (HTML, CSS, JS)  
-- 🗄️ Currently learning SQL and Java
-- 💻 Familiar with C & C++  
-- 🤖 Interested in AI & ML  
-- 🎨 Love clean UI  
+- 🎓 Computer Science Engineering Student
+- ☕ Currently learning Java & OOP Concepts
+- 🌐 Frontend Developer (HTML, CSS, JavaScript)
+- 🗄️ Knowledge of SQL & Database Fundamentals
+- 💻 Familiar with C & C++
+- 🤖 Aspiring AI Engineer
+- 🎨 Passionate about Clean UI & Problem Solving
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 C  
-- 💻 C++  
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
-- 🗄️ SQL  
+### Programming Languages
+- 💻 C
+- 💻 C++
+- ☕ Java
+
+### Web Development
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+
+### Database
+- 🗄️ SQL
 
 ---
 
@@ -54,14 +61,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khwaaishpatwa2110&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
@@ -75,3 +74,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/khwaaishpatwa2110/khwaaishpatwa2110/output/snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+<div align="center">
+
+### ✨ Learning, Building, Growing ✨
+
